@@ -67,3 +67,8 @@ Meta
 
 Created by Pedro Belo.
 Many thanks to Keith Rarick for the help with assorted Unix topics :)
+=======
+buildpack1
+==========
+
+Creates PHP buildpack
